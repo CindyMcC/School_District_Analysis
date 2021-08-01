@@ -7,6 +7,8 @@ We were asked to revise the previous summary of the school district test data du
 ### •	District Summary
 All calculations based on the math and reading scores decreased slightly on the revised summary.  
 
+<img src="Resources/osds.png">  
+
 ### •	School Summary
 The only change in the school summary was to the Thomas High School listing.  The ninth-grade students were removed from the count used to calculate the scores to prevent a skewed view of the averages since their test scores were removed from the records.  This resulted in a slight decrease in the results.
 
